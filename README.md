@@ -1,8 +1,6 @@
 <h1 align="center">HTML Project Course</h1>
 <h2 align="center">
 
-![HTML](https://i.imgur.com/D6up6m3.png)
-
 ![HTML2](https://i.imgur.com/0WVfHPq.png)
 
 ***

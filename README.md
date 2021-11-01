@@ -5,7 +5,7 @@
 
 ***
 </h2>
-<h2 align="center">Udemy Course repository</h2>
+<h2 align="center">Udemy Course Repository</h2>
 
 ***
 

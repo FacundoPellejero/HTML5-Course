@@ -18,7 +18,7 @@ Repo for HTML5 Udemy Course
 
 - [Introduction to HTML](https://github.com/FacundoPellejero/HTML5-Course/tree/main/Introduction%20to%20HTML)
 - [Texts in HMTL](https://github.com/FacundoPellejero/HTML5-Course/tree/main/Texts%20in%20HTML)
-- [Links in HTML]()
+- [Links in HTML](https://github.com/FacundoPellejero/HTML5-Course/tree/main/Links%20in%20HTML)
 - [Tags in HTML]()
 - [Elements in HTML]()
 - [Forms in HTML]()

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Tags</title>
+</head>
+<body>
+    <!-- defines the contact information for the author/owner of a document or an article.
+    The contact information can be an email address, URL, physical address, phone number, social media handle, etc.
+
+         <address>
+        Contact us <a href="#"> Email</a> <br>
+        Evergreen Terrace 742 <br>
+        Phone number [555-1239]
+    </address> -->
+
+    <form action="">
+        <fieldset>
+            <legend>Drop ur info!</legend>
+            <label>Fav superhero</label>
+            <select>
+                <optgroup label="Marvel">
+                    <option value="Spiderman">Spiderman</option>
+                    <option value="Cap America">Cap America</option>
+                    <option value="Hulk">Hulk</option>
+                    <option value="Blackwidow">Blackwidow</option>
+                </optgroup>
+
+                <optgroup label="DC Comics">
+                    <option value="Rorschach">Rorschach</option>
+                    <option value="Batman">Batman</option>
+                    <option value="Superman">Superman</option>
+                    <option value="Wonderwoman">Wonderwoman</option>
+                </optgroup>                
+            </select>
+        </fieldset>
+
+        <br><br>
+
+            <label>Search your superhero</label>
+            <input list="heroes">
+            <datalist id="heroes">
+                <option value="Spiderman">Spiderman</option>
+                <option value="Cap America">Cap America</option>
+                <option value="Hulk">Hulk</option>
+                <option value="Blackwidow">Blackwidow</option>
+                <option value="Rorschach">Rorschach</option>
+                <option value="Batman">Batman</option>
+                <option value="Superman">Superman</option>
+                <option value="Wonderwoman">Wonderwoman</option>
+            </datalist>
+    </form>
+
+    <h1 contenteditable="true">hello world im edit</h1>
+
+    
+</body>
+</html>

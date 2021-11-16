@@ -4,9 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Extra tags</title>
 </head>
 <body>
-    
+    <!--
+        figure element to mark up a photo in a document, 
+        and a figcaption to define a caption for the photo
+        <figure>
+        <img src="assets/cat.jpg" alt="cat">
+        <figcaption>Cats Cats Cats!</figcaption>
+    </figure> -->
+    <picture>
+        <source srcset="assets/paris.jpg" media="(min-width:800px)">
+        <source srcset="assets/cat2.jpg" media="(min-width:500px)">
+        <img src="assets/cat.jpg" alt="">
+    </picture>
+
+    <details>
+        <summary>
+            Cat's powers
+        </summary>
+        <ul>
+            <li>Agility</li>
+            <li>Nocturnal vision</li>
+            <li>Nine lives</li>
+        </ul>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </details>
 </body>
 </html>

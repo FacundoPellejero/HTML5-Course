@@ -27,3 +27,7 @@ Instructor: Jordan Alexander
 - [Iframes, audio and video in HTML](https://github.com/FacundoPellejero/HTML5-Course/tree/main/Udemy-Courses/Instructor%20Johan-Alexander/Iframes%20audio%20and%20video%20in%20HTML)
 - [Extra tags in HTML](https://github.com/FacundoPellejero/HTML5-Course/tree/main/Udemy-Courses/Instructor%20Johan-Alexander/Extra%20tags%20in%20HTML)
 - [Meta tags in HTML](https://github.com/FacundoPellejero/HTML5-Course/tree/main/Udemy-Courses/Instructor%20Johan-Alexander/Meta%20tags%20in%20HTML)
+
+### Certification
+
+[Certification here](https://github.com/FacundoPellejero/HTML5-Course/blob/main/Udemy-Courses/Instructor%20Johan-Alexander/Certification/Certification-UC-9fd07706-cee5-4620-bc62-d35d9a6a164c.pdf)
